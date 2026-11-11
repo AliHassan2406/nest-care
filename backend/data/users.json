@@ -1,0 +1,80 @@
+[
+  {
+    "id": "admin1",
+    "username": "admin",
+    "role": "Admin",
+    "name": "Admin User",
+    "email": "admin@repair.com",
+    "phone": "923000000001",
+    "passwordHash": "$2a$10$qQWdjVVlYJhdI8KDfNUmU.g6Ar4Oouzsa1vYOtn22Yabf0CkfVHqO"
+  },
+  {
+    "id": "worker1",
+    "username": "worker",
+    "role": "Worker",
+    "name": "Ahmed - Electrician",
+    "email": "worker@repair.com",
+    "phone": "923100000001",
+    "specialization": "Electrical",
+    "experience": "5 years",
+    "rating": 4.8,
+    "passwordHash": "$2a$10$.G9kThH5AE0VNln6qculaukDd2r6HDywCcCzA89MLmSNvttFg3zf."
+  },
+  {
+    "id": "worker2",
+    "username": "plumber",
+    "role": "Worker",
+    "name": "Ali - Plumber",
+    "email": "plumber@repair.com",
+    "phone": "923200000002",
+    "specialization": "Plumbing",
+    "experience": "7 years",
+    "rating": 4.9,
+    "passwordHash": "$2a$10$5LLOkMYbMrEH2IxX.zZoD.cLYc/qTHmCH/faLOFGlda02x7CRoR2i"
+  },
+  {
+    "id": "worker3",
+    "username": "carpenter",
+    "role": "Worker",
+    "name": "Hassan - Carpenter",
+    "email": "carpenter@repair.com",
+    "phone": "923300000003",
+    "specialization": "Furniture",
+    "experience": "6 years",
+    "rating": 4.7,
+    "passwordHash": "$2a$10$UghG.hog.5yLDh4WntJ0POflc2VrYgTJBN/qqfpwn0OJMWLUoNOYm"
+  },
+  {
+    "id": "user1",
+    "username": "user",
+    "role": "User",
+    "name": "John Doe",
+    "email": "user@repair.com",
+    "phone": "923400000004",
+    "passwordHash": "$2a$10$5H0iTiuiuULon9x9d42ZSOiE81BxITEYioinh2VbiDfnQ5A95034W"
+  },
+  {
+    "id": "worker4",
+    "username": "cleaner",
+    "role": "Worker",
+    "name": "Sara — Home Cleaning",
+    "email": "cleaner@repair.com",
+    "phone": "923400000005",
+    "specialization": "Cleaning",
+    "experience": "4 years",
+    "rating": 4.9,
+    "passwordHash": "$2a$10$ZHTxzuTYEXuotKELUtSrNO7LAidRBLIYQbqx69/Rba7soCtVOHb0e"
+  },
+  {
+    "id": "worker5",
+    "username": "handyman",
+    "role": "Worker",
+    "name": "Usman — General Maintenance",
+    "email": "handyman@repair.com",
+    "phone": "923500000006",
+    "specialization": "Other",
+    "experience": "6 years",
+    "rating": 4.8,
+    "passwordHash": "$2a$10$d8eIKHoSGywcGvkfPz5xBuurXrcpy8gpOM8ZSTPWYVEj3fINCulT6"
+  }
+]

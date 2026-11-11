@@ -1,0 +1,52 @@
+[
+  {
+    "id": "svc-electrical",
+    "name": "Electrical",
+    "title": "Electrical repairs",
+    "description": "Safe fixes for wiring, switches, lights and power issues.",
+    "icon": "⚡",
+    "type": "Electrical",
+    "accent": "amber",
+    "startingPrice": "Quote on request"
+  },
+  {
+    "id": "svc-plumbing",
+    "name": "Plumbing",
+    "title": "Plumbing & leaks",
+    "description": "Tap repairs, blocked drains, leaks and water fittings.",
+    "icon": "🚿",
+    "type": "Plumbing",
+    "accent": "sky",
+    "startingPrice": "Quote on request"
+  },
+  {
+    "id": "svc-furniture",
+    "name": "Furniture",
+    "title": "Furniture repairs",
+    "description": "Cabinet fixes, hinges, doors and everyday woodwork.",
+    "icon": "🪑",
+    "type": "Furniture",
+    "accent": "orange",
+    "startingPrice": "Quote on request"
+  },
+  {
+    "id": "svc-cleaning",
+    "name": "Cleaning",
+    "title": "Home cleaning",
+    "description": "Thoughtful room-by-room and deep-cleaning help.",
+    "icon": "✨",
+    "type": "Cleaning",
+    "accent": "emerald",
+    "startingPrice": "Quote on request"
+  },
+  {
+    "id": "svc-other",
+    "name": "Maintenance",
+    "title": "General maintenance",
+    "description": "The odd jobs and home fixes that need a steady hand.",
+    "icon": "🧰",
+    "type": "Other",
+    "accent": "violet",
+    "startingPrice": "Quote on request"
+  }
+]

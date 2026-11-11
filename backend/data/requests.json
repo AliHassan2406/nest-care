@@ -1,0 +1,69 @@
+[
+  {
+    "id": "REQ1779166667639",
+    "userId": "user1",
+    "name": "John Doe",
+    "email": "user@repair.com",
+    "phone": "923400000004",
+    "type": "Plumbing",
+    "location": "room no 32 building no 4",
+    "description": "issues in pipe of kitchen",
+    "status": "In Progress",
+    "date": "2026-05-19",
+    "statusHistory": [
+      {
+        "status": "Pending",
+        "at": "2026-05-19T04:57:47.640Z",
+        "by": "user"
+      },
+      {
+        "status": "In Progress",
+        "at": "2026-05-19T07:32:56.652Z",
+        "by": "admin"
+      }
+    ]
+  },
+  {
+    "id": "REQ1779185392151",
+    "userId": "user1",
+    "name": "John Doe",
+    "email": "user@repair.com",
+    "phone": "923400000004",
+    "type": "Furniture",
+    "location": "room no 12 building 6",
+    "description": "I have crack in my bed also make a wardrobe for me",
+    "status": "Pending",
+    "date": "2026-05-19",
+    "statusHistory": [
+      {
+        "status": "Pending",
+        "at": "2026-05-19T10:09:52.151Z",
+        "by": "user"
+      }
+    ]
+  },
+  {
+    "id": "REQ1779185485983",
+    "userId": "user1",
+    "name": "John Doe",
+    "email": "user@repair.com",
+    "phone": "923400000004",
+    "type": "Electrical",
+    "location": "room no 12 building 6",
+    "description": "i have issue in my kitchen wirings can you please come and check the switches\n",
+    "status": "In Progress",
+    "date": "2026-05-19",
+    "statusHistory": [
+      {
+        "status": "Pending",
+        "at": "2026-05-19T10:11:25.984Z",
+        "by": "user"
+      },
+      {
+        "status": "In Progress",
+        "at": "2026-05-19T10:12:12.775Z",
+        "by": "admin"
+      }
+    ]
+  }
+]

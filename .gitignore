@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+.env
+backend/.env
+*.log
+.DS_Store
+Thumbs.db
+
+# Local SQLite database and SQLite journal files
+backend/data/nestcare.sqlite*
